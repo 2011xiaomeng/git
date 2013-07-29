@@ -3,3 +3,5 @@ add one local file
 edit the file in develop branch
 
 edit in local
+
+edit remote and local
